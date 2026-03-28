@@ -80,4 +80,4 @@ python detect.py
 
 ## 👨‍💻 Author
 
-Your Name
+    ARADHAYA SINGH
